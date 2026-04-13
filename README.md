@@ -1,4 +1,4 @@
-![Verified](https://img.shields.io/badge/Verified-00AEEF?style=flat&logo=tiktok&logoColor=white)
+![Verified](https://img.shields.io/badge/Verified-00AEEF?style=flat&logo=github&logoColor=white)
 
 <div align="center">
 
