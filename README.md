@@ -1,76 +1,94 @@
-# ScriptBase
+<div align="center">
 
-ScriptBase is a collection of beginner‑friendly Bruce firmware scripts designed for use across all Bruce‑compatible ESP32 devices, including:
+# ScriptBase  
+### A Cross‑Device Bruce Firmware Script Library
 
-- M5StickC PLUS2  
-- LilyGO T‑Embed  
-- Flipper‑style ESP32 devices  
-- Any additional hardware supported by the Bruce runtime  
+![Verified](https://img.shields.io/badge/Verified-00AEEF?style=flat&logo=github&logoColor=white)
+![Compatibility](https://img.shields.io/badge/ESP32-Universal-4CAF50)
+![Status](https://img.shields.io/badge/Project-Active-2962FF)
 
-The repository provides clear, safe, and reusable examples intended to accelerate onboarding for new developers while offering a reliable foundation for more advanced projects.
+ScriptBase provides a curated collection of **beginner‑friendly**, **device‑safe**, and **cross‑compatible** Bruce firmware scripts.  
+Designed for clarity. Built for learning. Ready for real hardware.
 
----
-
-## Repository Overview
-
-ScriptBase includes the following categories of resources:
-
-### Beginner Bruce Scripts
-Introductory examples demonstrating core Bruce API functionality, including display rendering, button input, timers, and sensor access.
-
-### Cross‑Device Compatible Utilities
-Scripts written to operate consistently across all supported Bruce devices without modification.
-
-### Reusable Modules
-Modular components designed for import into larger applications, enabling clean and maintainable development workflows.
-
-### Learning‑Focused Examples
-Readable, well‑structured code samples intended to support new developers in understanding Bruce development patterns and best practices.
+</div>
 
 ---
 
-## Purpose and Goals
+## 📘 Overview
 
-ScriptBase was created to:
+ScriptBase is engineered to support developers working across multiple Bruce‑compatible ESP32 devices, including:
 
-- Provide a clear starting point for developers new to Bruce  
-- Offer ready‑to‑use examples compatible with multiple hardware platforms  
-- Maintain an organized and reusable script library  
-- Support larger Bruce‑based projects, including Traplixy Dungeon and Script Hub  
-- Promote consistency, clarity, and safe development practices  
+- **M5StickC PLUS2**  
+- **LilyGO T‑Embed**  
+- **Flipper‑style ESP32 devices**  
+- **Any additional hardware supported by the Bruce runtime**
 
-All scripts are written with an emphasis on compatibility, maintainability, and educational value.
+Each script is written with a focus on **readability**, **safety**, and **consistent behavior** across devices.
 
 ---
 
-## Getting Started
+## 📦 Repository Contents
 
-### 1. Install Bruce Firmware
-Ensure your device is running the latest version of Bruce. All ESP32‑based devices listed above are supported.
+### **Beginner Bruce Scripts**
+Clear examples demonstrating:
+- Display rendering  
+- Button input  
+- Timers  
+- Basic UI patterns  
+- Sensor access  
 
-### 2. Upload Scripts
-Scripts may be transferred using:
+### **Cross‑Device Utilities**
+Modules designed to run identically across all supported devices.
 
-- The Bruce Web IDE  
+### **Reusable Modules**
+Import‑ready components for building larger applications.
+
+### **Learning‑Focused Examples**
+Structured, readable code intended to help new developers understand Bruce fundamentals quickly and confidently.
+
+---
+
+## 🎯 Purpose
+
+ScriptBase exists to:
+
+- Provide a reliable starting point for new Bruce developers  
+- Offer ready‑to‑use examples for multiple hardware platforms  
+- Maintain a clean, organized script library  
+- Support larger projects such as **Traplixy Dungeon** and **Script Hub**  
+- Encourage safe, maintainable development practices  
+
+Every script is written with **clarity**, **compatibility**, and **long‑term usability** in mind.
+
+---
+
+## 🚀 Getting Started
+
+### **1. Install Bruce Firmware**
+Ensure your device is running the latest Bruce release.
+
+### **2. Upload Scripts**
+Use any supported method:
+- Bruce Web IDE  
 - USB file transfer  
-- A custom script management application  
+- Custom script management tools  
 
-### 3. Execute Scripts
-Scripts can be launched directly from the device’s file browser or through a custom launcher.
+### **3. Run Scripts**
+Launch scripts directly from the device’s file browser or through a custom launcher.
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
-Contributions are welcome. The project benefits most from:
+Contributions are welcome and appreciated.  
+Ideal contributions include:
 
-- Additional beginner‑level examples  
+- Beginner‑level examples  
 - Cross‑device compatibility improvements  
-- Display and input handling utilities  
-- Modular components for reuse in larger applications  
+- Display and input utilities  
+- Modular components for reuse  
 
-### Contribution Process
-
+### **Contribution Workflow**
 1. Fork the repository  
 2. Create a feature branch  
 3. Commit your changes  
@@ -78,15 +96,19 @@ Contributions are welcome. The project benefits most from:
 
 ---
 
-## Maintainer
+## 👤 Maintainer
 
 **XPY‑US**  
 ![Verified](https://img.shields.io/badge/Verified-00AEEF?style=flat&logo=github&logoColor=white)
 
 ---
 
-## Support
+<div align="center">
 
-To support ongoing development, visit:
+## ❤️ Support the Project
 
-https://github.com/sponsors/XPY-US
+If you would like to support ongoing development:
+
+### **[Sponsor ScriptBase](https://github.com/sponsors/XPY-US)**
+
+</div>
